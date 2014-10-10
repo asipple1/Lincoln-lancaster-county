@@ -1,0 +1,64 @@
+body{
+margin-top: 40px;
+}
+.jumbotron{
+background-image: url(../images/Corrections-Building.jpg);
+    background-repeat:no-repeat;
+    height: 390px;
+    background-size: 100% 100%;
+}
+.jumbotron h1{
+color:rgba( 58, 121, 175, 0.778 );
+    background-color:rgba( 255, 255, 255, 0.778 );
+    position: relative;
+    text-align: center;
+}
+ul{
+height: 50px;
+    margin-top: -10px;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+li{
+margin: 0 5 auto;
+display: inline-block;
+text-decoration: none;
+    font-size: 20;
+}
+
+#mission p{
+font-size: 160%;
+}
+
+.footer{
+background-color: rgba( 58, 121, 175, 0.778 );
+    color: rgba( 255, 255, 255, 0.778 );
+    text-align: center;
+    height: 40px;
+    position:relative;
+    bottom: 0;
+    margin-top:30px;
+}
+.footer p{
+margin-top: 10px;
+}
+
+/*--------about--------*/
+
+#about p{
+border-bottom: 1px solid black;
+    font-size: 20px;
+}
+/*--------visitors--------*/
+#visit{
+
+font-size: 20px; 
+}
+/*--------contact--------*/
+
+#contact {
+
+text-align: center;
+}
